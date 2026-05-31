@@ -1,0 +1,47 @@
+# Rime table
+# coding: utf-8
+#@/db_name	custom_phrase.txt
+#@/db_type	tabledb
+#
+# 自定义短语
+#
+# 以 Tab 分割：词汇<Tab>编码<Tab>权重
+#
+# version: "0.1"
+#
+# 此行之后不能写注释
+
+又双叒叕	yyyy
+懂的都懂  dddd
+Hello	hello	2
+hello	hello	1
+Hi	hi	2
+hi	hi	1
+嘻嘻	hihi	1
+
+go	go
+Golang	golang
+Hugo	hugo
+Amazon	amazon
+NASA	nasa
+Linux	linux
+Windows	win
+iOS	ios
+Android	and	1
+macOS	mac	5
+MacBook mac	4
+MacBook Pro	mac	3
+MacBook Air	mac	2
+MacBook Neo	mac	1
+MacBook Pro	mbp
+MacBook Air	mba
+MacBook Neo	mbn
+OSX	osx
+IP	ip	3
+iPhone	ip	2
+iPad	ip	1
+Rime	rime
+USB	usb
+U盘	u	1
+USB	u	2
+SSD 	ssd
