@@ -341,7 +341,7 @@ translator:
 
 zh_hant:
   option_name: zh_hant
-  opencc_config: s2hk.json
+  opencc_config: s2hkf.json
 
 custom_phrase:
   dictionary: ""
